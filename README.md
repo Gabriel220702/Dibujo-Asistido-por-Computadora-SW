@@ -42,10 +42,9 @@ Este repositorio contiene los diseños desarrollados en **SolidWorks**, abarcand
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1efff524-0898-4f4b-88d4-7f3b5164d9d7" width="200">
-  <img src="https://github.com/user-attachments/assets/527f2de1-e296-47e6-8068-30e5793aaef7" width="200">
-  <img src="https://github.com/user-attachments/assets/f13729f0-91dc-42d9-b046-10563d534dd7" width="200">
-  <img src="https://github.com/user-attachments/assets/0c88d74f-382f-47cb-ba7e-8eb0a4533b58" width="200">
-
-
+  <img src="https://github.com/user-attachments/assets/1efff524-0898-4f4b-88d4-7f3b5164d9d7" width="300">
+  <img src="https://github.com/user-attachments/assets/527f2de1-e296-47e6-8068-30e5793aaef7" width="150">
+  <img src="https://github.com/user-attachments/assets/f13729f0-91dc-42d9-b046-10563d534dd7" width="150">
+  <img src="https://github.com/user-attachments/assets/0c88d74f-382f-47cb-ba7e-8eb0a4533b58" width="300">
 </p>
+
